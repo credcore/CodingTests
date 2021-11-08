@@ -1,7 +1,7 @@
 # Coding Tests
 Common Coding Tests for Developers.
 
-Please attempt ONLY ONE of the following tests.
+Please attempt any *ONE* of the following tests.
 You could create a repo (public or private) on GH, and share access so that we can review it.
 Alternatively, you may send us the source code in zipped format.
 
