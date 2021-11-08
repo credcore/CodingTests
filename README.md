@@ -5,6 +5,8 @@ Please attempt any *ONE* of the following tests.
 You could create a repo (public or private) on GH, and share access so that we can review it.
 Alternatively, you may send us the source code in zipped format.
 
+Note: We expect you to spend 2 hours or less on this. So a few things being incomplete, or erroneous is totally OK!
+
 ### Useful Resources
 
 1. Swagger Editor: https://editor.swagger.io/
