@@ -44,4 +44,15 @@ We have a set of warehouses, each having location co-ordinates and inventory det
 3. The order may be for one or more units, but for a single item.
 4. Create any tables that you might need.
 
+### 5. Barter
+
+1. Design a Swagger/Open REST API for Barter Website (do not implement)
+2. Design a database schema for the same (Relational DB preferred). It should have Users, Listings, Trades etc.
+3. Please use the Swagger Editor linked above, or any other.
+
+### 6. GraphQL
+
+1. There's a hacker news rest API at https://github.com/HackerNews/API
+2. Create a GraphQL version of this API
+3. Implement a tiny part of the API (as an example of what implementation would look like). 
 
