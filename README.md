@@ -15,6 +15,7 @@ Alternatively, you may send us the source code in zipped format.
 1. Design a Swagger/Open REST API for Movie Ticket Booking (do not implement)
 2. Design a database schema for the same (Relational DB preferred). It should have Users, Bookings, Shows, Seats etc.
 3. Please use the Swagger Editor linked above, or any other.
+4. Implement any one API in the list end-to-end (from WebService to DB)
 
 ### 2. Monad in any Language
 
@@ -49,6 +50,7 @@ We have a set of warehouses, each having location co-ordinates and inventory det
 1. Design a Swagger/Open REST API for Barter Website (do not implement)
 2. Design a database schema for the same (Relational DB preferred). It should have Users, Listings, Trades etc.
 3. Please use the Swagger Editor linked above, or any other.
+4. Implement any one API in the list end-to-end (from WebService to DB)
 
 ### 6. GraphQL
 
