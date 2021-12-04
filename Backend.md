@@ -19,12 +19,12 @@ Note: We expect you to spend 2-4 hours on this. So a few things being incomplete
 3. Please use the Swagger Editor linked above, or any other.
 4. Implement any one API in the list end-to-end (from WebService to DB)
 
-### 2. Monad in any Language
+~~### 2. Monad in any Language~~
 
-0. https://en.wikipedia.org/wiki/Monad_(functional_programming)
-1. Implement any Monad (but not a very trivial one)
-2. Show a simple real-world snippet where it is used and beneficial.
-3. Please attempt this only if you're somewhat familiar with Functional Programming.
+~~0. https://en.wikipedia.org/wiki/Monad_(functional_programming)~~
+~~1. Implement any Monad (but not a very trivial one)~~
+~~2. Show a simple real-world snippet where it is used and beneficial.~~
+~~3. Please attempt this only if you're somewhat familiar with Functional Programming.~~
 
 ### 3. Crypto Bank
 
