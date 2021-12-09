@@ -5,7 +5,9 @@ Please attempt any *ONE* of the following tests.
 You could create a repo (public or private) on GH, and share access so that we can review it.
 Alternatively, you may send us the source code in zipped format.
 
-Note: We expect you to spend close to 4 hours on this. So a few things being incomplete, or erroneous is totally OK!
+Note: We expect you to spend close to 2-4 hours on this. 
+- So a few things being incomplete, or erroneous is totally OK!
+- Not looking for fully working code. Placeholder methods are fine.
 
 ### Useful Resources
 
